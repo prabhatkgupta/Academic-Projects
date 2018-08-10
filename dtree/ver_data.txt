@@ -1,0 +1,15 @@
+wb	hair	y	n	n	y	n	mammal
+cb	scales	n	n	n	n	y	reptile
+cb	scales	n	y	n	n	n	fish
+wb	hair	y	y	n	n	n	mammal
+cb	none	n	semi	n	y	y	amphibian
+cb	scales	n	n	n	y	n	reptile
+wb	hair	y	n	y	y	y	mammal
+wb	feathers	n	n	y	y	n	bird
+wb	fur	y	n	n	y	n	mammal
+cb	scales	y	y	n	n	n	fish
+cb	scales	n	semi	n	y	n	reptile
+wb	feathers	n	semi	n	y	n	bird
+wb	quills	y	n	n	y	y	mammal
+cb	scales	n	y	n	n	n	fish
+cb	none	n	semi	n	y	y	amphibian
